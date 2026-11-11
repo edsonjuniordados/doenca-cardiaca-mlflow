@@ -1,0 +1,5 @@
+centro_teste,n_teste,roc_auc,recall
+Cleveland,303,0.845,0.928
+Hungria,293,0.892,0.943
+VA Long Beach,199,0.735,0.865
+Suíça,123,0.754,0.774

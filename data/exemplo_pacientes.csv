@@ -1,0 +1,6 @@
+idade,pressao_repouso,colesterol,freq_max,depressao_st,sexo,tipo_dor_peito,glicemia_alta,ecg_repouso,angina_exercicio,inclinacao_st,vasos_coloridos,talassemia
+49.0,130.0,206.0,170.0,0.0,masculino,assintomático,0.0,normal,0.0,,,
+61.0,120.0,282.0,135.0,4.0,masculino,assintomático,0.0,anormalidade ST-T,1.0,descendente,,defeito fixo
+66.0,112.0,261.0,140.0,1.5,masculino,assintomático,0.0,normal,0.0,ascendente,,
+65.0,136.0,248.0,140.0,4.0,masculino,assintomático,0.0,normal,1.0,descendente,,
+69.0,,271.0,,,masculino,dor não anginosa,0.0,hipertrofia VE,,,,
