@@ -1,0 +1,9 @@
+data/raw/
+mlruns/
+mlartifacts/
+mlflow.db
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+.DS_Store
